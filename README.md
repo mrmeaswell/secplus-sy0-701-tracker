@@ -1,24 +1,15 @@
-# CompTIA Certification Study Tracker
+# CompTIA Security+ (SY0-701) Study Tracker
 
-Interactive 60- or 90-day study pathways mapped to the official CompTIA exam objectives. Pick a certification at the top of the page:
-
-| Track | Exam |
-|---|---|
-| Security+ | SY0-701 |
-| A+ Core 1 | 220-1201 |
-| Cloud+ | CV0-004 |
-| Network+ | N10-009 |
-| Server+ | SK0-005 |
-| Linux+ | XK0-006 (draft objectives v1.0) |
+An interactive 60- or 90-day study pathway mapped to the official CompTIA Security+ SY0-701 exam objectives (v5.0).
 
 **Open the tracker:** https://mrmeaswell.github.io/secplus-sy0-701-tracker/
 
 ## How to use
-1. Choose a certification, the 60- or 90-day pathway, and your start date.
-2. Work through each week's study tasks, lab, and quiz, and check them off.
-3. Rate your confidence (1-4) on each objective.
+1. Choose the 60- or 90-day pathway and set your start date.
+2. Work through each week's tasks and check them off.
+3. Rate your confidence (1-4) on each of the 28 objectives.
 4. Log practice exam scores. Aim for three full practice exams at 85%+ before booking the exam.
 
-Each track keeps its own progress in your browser. Use **Export all** to back it up and **Import** to restore it on another device.
+Progress saves in your browser. Use **Export** to back it up and **Import** to restore it on another device.
 
-Study weeks are assigned by domain weight. Objective titles and topics come from CompTIA's published exam objectives documents; see the official PDFs for every sub-item. Not affiliated with or endorsed by CompTIA.
+Source: [CompTIA Security+ SY0-701 Exam Objectives](https://assets.ctfassets.net/82ripq7fjls2/6TYWUym0Nudqa8nGEnegjG/0f9b974d3b1837fe85ab8e6553f4d623/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf). Not affiliated with or endorsed by CompTIA.
